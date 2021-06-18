@@ -1,6 +1,6 @@
 {
 	"name": "@thingbound/commitlint-config",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"description": "Commitlint used for @thingbound projects",
 	"repository": "git://github.com/thingbound/commitlint-config.git",
 	"main": "index.js",
